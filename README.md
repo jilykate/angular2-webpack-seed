@@ -4,6 +4,6 @@
 
 <p>Seeds:</p>
 <ul>
-<li><a href="https://github.com/jilykate/angular2-sass-seed">Angular2&webpack</li>
+<li><a href="https://github.com/jilykate/angular2-sass-seed">Angular2&webpack&Sass</li>
 </ul>
 
